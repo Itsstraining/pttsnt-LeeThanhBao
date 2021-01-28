@@ -6,7 +6,7 @@ function main(input)
   let A = (input);
   // let B = 2; //chia 2 tìm số chẳn
   // let C = []; //gắn mảg kết quả
-  console.log( timSoNguyenTo(A).join(" "+'*'+" "));//thêm vào mảg
+  console.log( timSoNguyenTo(A).join(" "));//thêm vào mảg
 }
 
 function timSoNguyenTo(A) 
